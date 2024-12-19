@@ -70,3 +70,5 @@ npm start
   ### 📚 API Endpoints
 🔑 **Authentication**
 POST /login: User login.
+## Author
+- **Sarra RHOUMA**
